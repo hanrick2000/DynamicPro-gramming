@@ -1,1 +1,1 @@
-# EducationalDPAtCoder
+# Educational Dynamic Programming AtCoder.jp
