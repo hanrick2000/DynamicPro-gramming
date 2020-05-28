@@ -33,7 +33,6 @@ int MinimizingCoins(vector<int>&nums,int amount,vector<int>&dp){
     return dp[amount]=(count==INT_MAX)?count:1+count;
 }
 
-//int NumberofWaysBottomUp()
 
 int32_t main() {
     ios_base::sync_with_stdio(0);
