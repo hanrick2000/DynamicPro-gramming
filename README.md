@@ -7,6 +7,7 @@
      - Coins Combination I  (https://cses.fi/problemset/task/1635)
      - ~~Coins Combination II (https://cses.fi/problemset/task/1636)~~ 
      - Removing Digits  (https://cses.fi/problemset/task/1637)
+     - Grid Paths [find number of paths]  (https://cses.fi/problemset/task/1638/)
      
      
 1. CSES Graph Problems (https://cses.fi/problemset/list/)
