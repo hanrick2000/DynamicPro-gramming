@@ -14,3 +14,4 @@
      - Labyrinth  [ BFS on grid , shorteset path (unweighted), print path ] (https://cses.fi/problemset/task/1193)
      - Building Roads [connected components (undirected)]  (https://cses.fi/problemset/task/1666/)
      - Message Routes [connected components, BFS , shortest path (unweighted)] (https://cses.fi/problemset/task/1667)
+     - Building Teams [bipartite graphs, 2-coloring, DFS] (https://cses.fi/problemset/task/1668/)
