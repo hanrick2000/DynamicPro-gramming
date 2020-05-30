@@ -17,6 +17,7 @@
      - Message Routes [connected components, BFS , shortest path (unweighted)] (https://cses.fi/problemset/task/1667)
      - Building Teams [bipartite graphs, 2-coloring, DFS] (https://cses.fi/problemset/task/1668/)
      - Round Trip [cycle detection, starting point of cycle] (https://cses.fi/problemset/task/1669/)
+     - Shortest Routes I [ djiktras sssp weighted graphs, priority_queue ] (https://cses.fi/problemset/task/1671/)
 
 3. CSES Introductory (https://cses.fi/problemset/list/)
      - Weird Alforithm [ brute force, simulate the problem ] (https://cses.fi/problemset/task/1068)
