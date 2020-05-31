@@ -1,4 +1,4 @@
-### Dynamic Programming (CSES, Atcoder) , Graphs (CSES)
+### Dynamic Programming (CSES, Atcoder) , Graphs (CSES), Searching & Sorting (CSES)
  
 
 1. CSES Dynamic Programming Problems  (https://cses.fi/problemset/list/)
@@ -8,7 +8,6 @@
      - ~~Coins Combination II (https://cses.fi/problemset/task/1636)~~ 
      - Removing Digits  (https://cses.fi/problemset/task/1637)
      - Grid Paths [find number of paths]  (https://cses.fi/problemset/task/1638/)
-     
      
 2. CSES Graph Problems (https://cses.fi/problemset/list/)
      - Counting Rooms  [ DFS on grid , connected components (undirected) ] (https://cses.fi/problemset/task/1192)
@@ -25,3 +24,7 @@
      - Repetitions [ brute force, array ]  (https://cses.fi/problemset/task/1069)
      - Increasing Array [ constructive algorithm ] (https://cses.fi/problemset/task/1094)
      - Permutations [ constructive algorithm ] (https://cses.fi/problemset/task/1070)
+
+4. CSES Searching And Sorting (https://cses.fi/problemset/list/)
+     - Distinct Numbers [ sorting, hashing ] (https://cses.fi/problemset/task/1621)
+     - Apartments [ sorting, 2 pointers ] (https://cses.fi/problemset/task/1084)
