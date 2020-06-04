@@ -29,3 +29,8 @@
 4. CSES Searching And Sorting (https://cses.fi/problemset/list/)
      - Distinct Numbers [ sorting, hashing ] (https://cses.fi/problemset/task/1621)
      - Apartments [ sorting, 2 pointers ] (https://cses.fi/problemset/task/1084)
+     - Ferris Wheel [sorting , 2 pointers ] (https://cses.fi/problemset/task/1090)
+     - Concert Tickets [sorting , lower_bound, multiset] (https://cses.fi/problemset/task/1091)
+     - Restaurant Customers [sorting, merge-sort] (https://cses.fi/problemset/task/1619)
+     - Movie Festival [sorting, activity selection , greedy] (https://cses.fi/problemset/task/1629)
+
